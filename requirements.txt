@@ -12,3 +12,4 @@ datasets
 matplotlib
 openai-agents
 dotenv
+langchain_openai
