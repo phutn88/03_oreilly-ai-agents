@@ -11,3 +11,4 @@ langgraph
 datasets
 matplotlib
 openai-agents
+dotenv
